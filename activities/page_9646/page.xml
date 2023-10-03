@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2263" moduleid="9646" modulename="page" contextid="64784">
+  <page id="2263">
+    <name>General Information</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 1.7rem;"&gt;In this section, find out more about how to get the most out of this module:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Terminology Rationale&lt;/li&gt;&lt;li&gt;Accessibility Statement&lt;/li&gt;&lt;li&gt;Additional Technologies&lt;/li&gt;&lt;li&gt;Free Feature-Rich Screen Readers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h3&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;h3&gt;Creative Commons&lt;/h3&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Resource created by&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;a href="http://cast.org/" target="_blank"&gt;CAST&lt;/a&gt;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;and licensed under a&amp;nbsp;&lt;a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;All other&amp;nbsp;rights reserved related to third&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;party content. Resource contact:&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;a href="mailto:workforce@cast.org" target="_blank"&gt;workforce@cast.org&lt;/a&gt;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Terminology&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;We recognize that language is
+fluid and evolves over time to reflect the influence of the society and culture we
+each live in. We also recognize that our personal experiences are unique, and
+they too influence the way we interpret and use language. Throughout these
+modules, we use the term “learning difference” to refer to the variability each
+person brings to the learning environment and which we want to celebrate and
+support with UDL.&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;We also want to acknowledge the
+many contributions of the disability rights community. In that spirit, we will
+use the terms “learning difference” and “learning disability” interchangeably
+and lean toward disability when we are referencing specific laws or the
+disability rights movement.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Our intention is first and foremost to show respect for person. We encourage you to consult with your adult learners and to use the language that is most welcoming and respectful to them.&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Accessibility Statement&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;CAST is committed to
+accessibility as a foundational component of the &lt;a href="https://www.cast.org/impact/universal-design-for-learning-udl" target="_blank"&gt;Universal
+Design for Learning framework&lt;/a&gt;.
+In developing the content for these modules, we followed accessibility best
+practices informed by the Web Content Accessibility Guidelines (WCAG), the
+international accessibility standard. For example, we provided alternative text
+for the images and captions for any embedded videos&amp;nbsp;and checked for color
+contrast.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We want to make sure you
+gain&amp;nbsp;the best learning experience possible. Should you encounter any
+accessibility or usability barriers as you navigate the course content, please
+contact us at &lt;a href="mailto:workforce@cast.org" target="_blank"&gt;workforce@cast.org&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;This course is delivered through
+the LINCS Learning Portal. Should you encounter any accessibility challenges
+related to the design of the LINCS Learning Portal, please &lt;a href="https://community.lincs.ed.gov/contact/contact_us" target="_blank"&gt;contact the LINCS team&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Additional Technologies&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The option to resize text is
+available in most browsers with a keyboard shortcut:&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Control (or Command on the Mac)
+and + (plus) to zoom in&lt;/li&gt;&lt;li&gt;Control (or Command on the Mac)
+and - (minus) to zoom out&lt;/li&gt;&lt;li&gt;Control (or Command on the Mac)
+and 0 (zero) to reset the zoom level to the default (100%).&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+&lt;p&gt;You can also find these options
+in the browser's menus, usually under View.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Along with other display options,
+a read aloud feature is now built into many operating systems and can be
+configured in the system preferences. To learn more about these
+options,&amp;nbsp;visit the &lt;a href="https://aem.cast.org/use/personalizing-reading" target="_blank"&gt;Personalizing the Reading
+Experience&lt;/a&gt; page on the AEM Center website at CAST.&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Free Feature-Rich Screen Readers&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Should you need to use a more
+feature-rich screen reader to access the content, several&amp;nbsp;free options are
+available:&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios" target="_blank"&gt;VoiceOver&lt;/a&gt; is
+built-in on Mac computers and iOS devices such as the iPhone and iPad&lt;/li&gt;&lt;li&gt;&lt;a href="https://support.microsoft.com/en-us/windows/hear-text-read-aloud-with-narrator-040f16c1-4632-b64e-110a-da4a0ac56917" target="_blank"&gt;Narrator&lt;/a&gt; is
+built-in on Windows computers and tablets, and &lt;a href="https://www.nvaccess.org/" target="_blank"&gt;NVDA is available as a free download&lt;/a&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;a href="https://support.google.com/chromebook/answer/7031755?hl=en" target="_blank"&gt;ChromeVox&lt;/a&gt; is
+available on Chromebooks&lt;/li&gt;&lt;li&gt;&lt;a href="https://support.google.com/accessibility/android/answer/6283677?hl=en" target="_blank"&gt;TalkBack&lt;/a&gt; is
+built-in on Android phones and tablets, and a version of it is also available
+on Amazon’s Fire tablets (called VoiceView)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+&lt;h3&gt;Course Completion:&lt;/h3&gt;&lt;p&gt;This course will take approximately 1 hour and 30 minutes to complete.&lt;br&gt;&lt;/p&gt;&lt;p&gt;To complete this course, you are expected to read the content on every page and then complete the 5 question knowledge check with a passing score.&amp;nbsp; Throughout this course, additional helpful resources have been hyperlinked, but you are not required to view the information found in these additional links to complete this course.&lt;br&gt;&lt;/p&gt;&lt;strong&gt;Certificate of Completion:&lt;/strong&gt;&amp;nbsp;After you have completed the course and the final 5 Question Knowledge check you will receive a downloadable certificate verifying you have completed the course.&amp;nbsp;&lt;p&gt;&lt;strong&gt;Evaluation:&lt;/strong&gt;&amp;nbsp;Please provide feedback on your experience completing this course using the&amp;nbsp;course evaluation&amp;nbsp;link.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;Additional Modules in LINCS:&lt;/h3&gt;&lt;p&gt;Each of the modules in this collection are designed with a UDL lens. While you do not need to complete these modules in any specific order (nor do you need to complete all seven modules), we recommend you consider completing the "Learning that Works for All" module first. This will ensure you have a basic knowledge of UDL. But, don't worry each module also includes a "&lt;a href="$@PAGEVIEWBYID*9647@$" target="_blank"&gt;Background Knowledge&lt;/a&gt;" section with key information about UDL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;u&gt;Disclaimer&lt;/u&gt;: This course was developed under contract with the MDB, Inc. with funding from the U.S. Department of Education (ED), Office of Career, Technical, and Adult Education (OCTAE), under Contract No. 91990020C0095. The content and opinions expressed herein do not necessarily represent the positions or policies of the U.S. Department of Education, and no official endorsement by the U.S. Department of Education should be inferred.&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>28</revision>
+    <timemodified>1690234850</timemodified>
+  </page>
+</activity>

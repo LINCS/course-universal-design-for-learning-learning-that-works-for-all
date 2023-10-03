@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2306" moduleid="9689" modulename="page" contextid="64827">
+  <page id="2306">
+    <name>Try It Yourself: Materials</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;img src="https://courses.lincs.ed.gov/pluginfile.php/64716/course/section/2704/image.png" alt="Hands holding markers" width="140" height="136" role="presentation" class="atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;/span&gt;The "Try it Yourself" section includes hands-on activities that you can try with the adult learners in your classroom. Each "Try it Yourself" activity aligns with the topics covered in this course. These activities can be adjusted or edited. Please feel free to use all or parts of them in your classroom in the ways that make sense with your learners.&lt;/p&gt;Click on this&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*291@$#section-5" target="_blank"&gt;hyperlink to the full Try It Yourself section&lt;/a&gt;&amp;nbsp;for a list of all activities, or click the next arrow at the bottom of the screen to go to the first activity.&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1694701829</timemodified>
+  </page>
+</activity>

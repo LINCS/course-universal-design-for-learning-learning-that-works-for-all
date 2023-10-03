@@ -1,0 +1,4623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="295523">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2708</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1661442170</timecreated>
+    <timemodified>1664248030</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/3. New Learning/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295524">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2708</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295525">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2708</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668889211</timecreated>
+    <timemodified>1668889243</timemodified>
+    <source>divider-wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295526">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64785</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663800613</timecreated>
+    <timemodified>1663800623</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295527">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64785</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295528">
+    <contenthash>45b5ff85f2f8f79e31410cd78baa49a9af76f8ef</contenthash>
+    <contextid>64785</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-travis.jpg</filename>
+    <userid>26700</userid>
+    <filesize>421292</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1666908513</timecreated>
+    <timemodified>1666909077</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Background Knowledge (2) (Page)/Page content/video-poster-travis.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295529">
+    <contenthash>d3657aa893325d69af3a0d7193eff0c92ebf7011</contenthash>
+    <contextid>64785</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-OCTAE.png</filename>
+    <userid>26700</userid>
+    <filesize>1817573</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1666909018</timecreated>
+    <timemodified>1666909077</timemodified>
+    <source>OCTAE-04.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295530">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64785</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1 (2).png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1675262356</timecreated>
+    <timemodified>1689175358</timemodified>
+    <source>Server files: Sandbox/Learning that Works for All/Review Your Initial Thoughts (Page)/Page content/divider-wave-1 (2).png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295531">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64786</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1666709815</timecreated>
+    <timemodified>1666709826</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Background Knowledge (2) (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295532">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64786</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295533">
+    <contenthash>83abfd1b1206c1cd8ae2e6f69364ed057f8976b4</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>icon-goals.png</filename>
+    <userid>26700</userid>
+    <filesize>23343</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1651641578</timecreated>
+    <timemodified>1651642019</timemodified>
+    <source>icon-goals-bg.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295534">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694702284</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295535">
+    <contenthash>83abfd1b1206c1cd8ae2e6f69364ed057f8976b4</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>icon-goals (1).png</filename>
+    <userid>26700</userid>
+    <filesize>23343</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1651641656</timecreated>
+    <timemodified>1651642019</timemodified>
+    <source>Server files: icon-goals.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295536">
+    <contenthash>15b03362c4f287b5672a1b4e9e6d95980b5f4eb9</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>icon-ideas-tips.png</filename>
+    <userid>26700</userid>
+    <filesize>470</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1652294857</timecreated>
+    <timemodified>1652295018</timemodified>
+    <source>icon-ideas-tips.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295537">
+    <contenthash>ab8576751662b4e0d8a9cf3d37516970c0badff6</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Asset 277.png</filename>
+    <userid>26700</userid>
+    <filesize>2025</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1652294972</timecreated>
+    <timemodified>1652295018</timemodified>
+    <source>Asset 277.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295538">
+    <contenthash>994eb20a253fc12fb06839368e8b6eadc5545ff3</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Asset 278.png</filename>
+    <userid>26700</userid>
+    <filesize>179</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1652295070</timecreated>
+    <timemodified>1652295088</timemodified>
+    <source>Asset 278.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295539">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1661442170</timecreated>
+    <timemodified>1663800539</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295540">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1 (1).png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1661442322</timecreated>
+    <timemodified>1661442356</timemodified>
+    <source>Server files: divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295541">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64787</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-protip.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1661442549</timecreated>
+    <timemodified>1661442614</timemodified>
+    <source>octae-icon-protips.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295542">
+    <contenthash>83abfd1b1206c1cd8ae2e6f69364ed057f8976b4</contenthash>
+    <contextid>64788</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>icon-goals (1).png</filename>
+    <userid>26700</userid>
+    <filesize>23343</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1651641656</timecreated>
+    <timemodified>1652292930</timemodified>
+    <source>Server files: icon-goals.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295543">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64788</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295544">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64788</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663771907</timecreated>
+    <timemodified>1663771920</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295545">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2709</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663800768</timecreated>
+    <timemodified>1671458399</timemodified>
+    <source>Server files: divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295546">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2709</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295547">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64789</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1667947625</timecreated>
+    <timemodified>1667947637</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Answer Key​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295548">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64789</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295549">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64790</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663801174</timecreated>
+    <timemodified>1663801189</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295550">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64790</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295551">
+    <contenthash>51c772726377119959b6fe103861423ddab77cd5</contenthash>
+    <contextid>64790</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-jason.jpg</filename>
+    <userid>26700</userid>
+    <filesize>155169</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1664826389</timecreated>
+    <timemodified>1664826442</timemodified>
+    <source>video-poster-jason.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295552">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64791</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663801832</timecreated>
+    <timemodified>1663801873</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295553">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64791</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295554">
+    <contenthash>51c772726377119959b6fe103861423ddab77cd5</contenthash>
+    <contextid>64791</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-jason.jpg</filename>
+    <userid>26700</userid>
+    <filesize>155169</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1664826727</timecreated>
+    <timemodified>1664826750</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/​​Case Study: Research-Based Approaches (Page)/Page content/video-poster-jason.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295555">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64791</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-resources.png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668104907</timecreated>
+    <timemodified>1668105007</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Additional Resources (Page)/Page content/octae-icon-resources.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295556">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2710</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247989</timecreated>
+    <timemodified>1671458493</timemodified>
+    <source>Server files: divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295557">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2710</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295558">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64792</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665584131</timecreated>
+    <timemodified>1665584146</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Wrap Up (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295559">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64792</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295560">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64793</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663802130</timecreated>
+    <timemodified>1663802141</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295561">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64793</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295562">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64793</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideasforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247004</timecreated>
+    <timemodified>1664247019</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/octae-icon-keyideasforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295563">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64794</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663802510</timecreated>
+    <timemodified>1663802521</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295564">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64794</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295565">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64795</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663802643</timecreated>
+    <timemodified>1663802706</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295566">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64795</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295567">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64795</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663802696</timecreated>
+    <timemodified>1663802706</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295568">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64795</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295569">
+    <contenthash>1bc4cf2d007715e3313ab3e79dd36b3f66d675d1</contenthash>
+    <contextid>64796</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>OCTAEchart_set34.png</filename>
+    <userid>26700</userid>
+    <filesize>806677</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663803777</timecreated>
+    <timemodified>1663804116</timemodified>
+    <source>OCTAEchart_set3&amp;4.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295570">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64796</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295571">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64796</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663803883</timecreated>
+    <timemodified>1663804116</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295572">
+    <contenthash>1bc4cf2d007715e3313ab3e79dd36b3f66d675d1</contenthash>
+    <contextid>64796</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>OCTAEchart_set34.png</filename>
+    <userid>26700</userid>
+    <filesize>806677</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663804000</timecreated>
+    <timemodified>1663804116</timemodified>
+    <source>OCTAEchart_set3&amp;4.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295573">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64796</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295574">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64796</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1663804102</timecreated>
+    <timemodified>1663804116</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295575">
+    <contenthash>b54a90ef7e0231a020b3ac41e7424334c47ad250</contenthash>
+    <contextid>64796</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-chartSet-12.png</filename>
+    <userid>26700</userid>
+    <filesize>794326</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1666909547</timecreated>
+    <timemodified>1666909695</timemodified>
+    <source>Server files: octae-chartSet-12.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295576">
+    <contenthash>e50723988ecb0b1fa5a28e4fca3a2eec5cb06f5f</contenthash>
+    <contextid>64796</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>OCTAE-charts-1-2-3-4.png</filename>
+    <userid>26700</userid>
+    <filesize>1426021</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1670881686</timecreated>
+    <timemodified>1670881925</timemodified>
+    <source>OCTAEcharts3&amp;4&amp;2&amp;3-01.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295577">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64798</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-protips.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664242426</timecreated>
+    <timemodified>1664242527</timemodified>
+    <source>octae-icon-protips.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295578">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64798</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295579">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64798</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664242477</timecreated>
+    <timemodified>1664242527</timemodified>
+    <source>octae-icon-tryyourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295580">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64798</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243238</timecreated>
+    <timemodified>1664243252</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Introducing Universal Design for Learning​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295581">
+    <contenthash>608766d748ed543e29b3c655ed500e8cb0e74e78</contenthash>
+    <contextid>64798</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-wendyb.jpg</filename>
+    <userid>26700</userid>
+    <filesize>151702</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1664826902</timecreated>
+    <timemodified>1664826938</timemodified>
+    <source>video-poster-wendyb.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295582">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64799</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664242659</timecreated>
+    <timemodified>1664242670</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Variability in ABE Classrooms 1/2 (Page)/Description/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295583">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64799</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295584">
+    <contenthash>b54ef511a4d942526ed4e6d8d0e322f2c1596bf3</contenthash>
+    <contextid>64800</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyidea.png</filename>
+    <userid>26700</userid>
+    <filesize>51861</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664242952</timecreated>
+    <timemodified>1664242983</timemodified>
+    <source>octae-icon-keyideas.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295585">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64800</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295586">
+    <contenthash>b54ef511a4d942526ed4e6d8d0e322f2c1596bf3</contenthash>
+    <contextid>64800</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyidea.png</filename>
+    <userid>26700</userid>
+    <filesize>51861</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243031</timecreated>
+    <timemodified>1664243117</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Description/octae-icon-keyidea.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295587">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64800</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295588">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64800</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243270</timecreated>
+    <timemodified>1664243279</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/How do you Support Variability?​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295589">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64800</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideaforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665579086</timecreated>
+    <timemodified>1665579120</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/octae-icon-keyideaforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295590">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64801</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243201</timecreated>
+    <timemodified>1664243214</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Variability in ABE Classrooms 2/2​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295591">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64801</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295592">
+    <contenthash>2a334ea0b61d07cb4664c07b2e3d3d348e643628</contenthash>
+    <contextid>64801</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>OCTAE UDL INTRO Poster.jpg</filename>
+    <userid>26700</userid>
+    <filesize>385271</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1666713851</timecreated>
+    <timemodified>1666714052</timemodified>
+    <source>OCTAE UDL INTRO Intro  Poster.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295593">
+    <contenthash>291ebffb12009db6593b9af5923edc4810406781</contenthash>
+    <contextid>64801</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-intro.jpg</filename>
+    <userid>26700</userid>
+    <filesize>166870</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1666735037</timecreated>
+    <timemodified>1666735055</timemodified>
+    <source>video-poster-intro.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295594">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64801</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1666828185</timecreated>
+    <timemodified>1666828222</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Try it Yourself​ (Page)/Page content/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295595">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64802</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243490</timecreated>
+    <timemodified>1664243499</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295596">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64802</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295597">
+    <contenthash>5d8773cb36f6be58a9f479c87f513b35470bca7d</contenthash>
+    <contextid>64802</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>graphic _quote_green_on_purple.png</filename>
+    <userid>26700</userid>
+    <filesize>28009</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665579359</timecreated>
+    <timemodified>1665579382</timemodified>
+    <source>Server files: graphic _quote_green_on_purple.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295598">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64803</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-protips.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243690</timecreated>
+    <timemodified>1664243737</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/How do you Support Variability?​ (Page)/Page content/octae-icon-protips.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295599">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64803</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110499</timecreated>
+    <timemodified>1694110499</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295600">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64803</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243720</timecreated>
+    <timemodified>1664243737</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/A Legal Definition of UDL​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295601">
+    <contenthash>b54ef511a4d942526ed4e6d8d0e322f2c1596bf3</contenthash>
+    <contextid>64804</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyidea.png</filename>
+    <userid>26700</userid>
+    <filesize>51861</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243819</timecreated>
+    <timemodified>1664243850</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/octae-icon-keyidea.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295602">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64804</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295603">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64804</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664243842</timecreated>
+    <timemodified>1664243850</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/UDL supports provide a framework we can use to effectively &amp;amp; efficiently design learning environments that support all learners (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295604">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64804</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideaforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665579483</timecreated>
+    <timemodified>1665579497</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/octae-icon-keyideaforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295605">
+    <contenthash>38de3f70aa5db870749ca82caec4eb0be13ed033</contenthash>
+    <contextid>64805</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>sketchplanations-the-curb-cut-effect-wtihCredit.png</filename>
+    <userid>26700</userid>
+    <filesize>1576785</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664244023</timecreated>
+    <timemodified>1664244253</timemodified>
+    <source>Server files: sketchplanations-the-curb-cut-effect-wtihCredit.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295606">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64805</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295607">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64805</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664244243</timecreated>
+    <timemodified>1664244253</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295608">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64806</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664244705</timecreated>
+    <timemodified>1664244713</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Learning from the Curb-Cut Effect in Education (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295609">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64806</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295610">
+    <contenthash>bdc6bad21e52b46a588e6bd8373df3e7a5a83477</contenthash>
+    <contextid>64806</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>UDL-GraphicOrganizer-principles-goals.jpg</filename>
+    <userid>26700</userid>
+    <filesize>380505</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665579793</timecreated>
+    <timemodified>1665579850</timemodified>
+    <source>UDL-GraphicOrganizer-principles-goals.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295611">
+    <contenthash>899b3f4fa8f8b1e93c830a0539a8ec67db3d1741</contenthash>
+    <contextid>64806</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>UDL-GraphicOrganizer-principles.jpg</filename>
+    <userid>26700</userid>
+    <filesize>490953</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665579958</timecreated>
+    <timemodified>1665579992</timemodified>
+    <source>UDL-GraphicOrganizer-principles.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295612">
+    <contenthash>899b3f4fa8f8b1e93c830a0539a8ec67db3d1741</contenthash>
+    <contextid>64806</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>UDL-GraphicOrganizer-principles (1).jpg</filename>
+    <userid>26700</userid>
+    <filesize>490953</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665579970</timecreated>
+    <timemodified>1665579992</timemodified>
+    <source>Server files: UDL-GraphicOrganizer-principles.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295613">
+    <contenthash>b54ef511a4d942526ed4e6d8d0e322f2c1596bf3</contenthash>
+    <contextid>64807</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyidea.png</filename>
+    <userid>26700</userid>
+    <filesize>51861</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664244802</timecreated>
+    <timemodified>1664244813</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/octae-icon-keyidea.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295614">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64807</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295615">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64807</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideaforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664246938</timecreated>
+    <timemodified>1664246972</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Description/octae-icon-keyideaforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295616">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64807</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664246960</timecreated>
+    <timemodified>1664246972</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Description/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295617">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64808</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245233</timecreated>
+    <timemodified>1664245266</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/How do you Support Variability?​ (Page)/Page content/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295618">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64808</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295619">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64808</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245253</timecreated>
+    <timemodified>1664245266</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Introducing the UDL Principles​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295620">
+    <contenthash>7edccebf9986b7c975adb3dadb47d584ced7fd97</contenthash>
+    <contextid>64808</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>udl-guidelines-graphic-organizer-for-presentations.png</filename>
+    <userid>26700</userid>
+    <filesize>706245</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665580517</timecreated>
+    <timemodified>1665580575</timemodified>
+    <source>udl-guidelines-graphic-organizer-for-presentations.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295621">
+    <contenthash>0d3b29ce8af370012f46a7626dbcec7b32b6ca15</contenthash>
+    <contextid>64809</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-guidelines.jpg</filename>
+    <userid>26700</userid>
+    <filesize>208463</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1666734718</timecreated>
+    <timemodified>1666734830</timemodified>
+    <source>video-poster-guidelines.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295622">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64809</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295623">
+    <contenthash>0d3b29ce8af370012f46a7626dbcec7b32b6ca15</contenthash>
+    <contextid>64809</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-UDL-Guidelines.jpg</filename>
+    <userid>26700</userid>
+    <filesize>208463</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1666734815</timecreated>
+    <timemodified>1666734830</timemodified>
+    <source>video-poster-guidelines.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295624">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64809</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295625">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64809</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1 (2).png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1676073068</timecreated>
+    <timemodified>1676073074</timemodified>
+    <source>Server files: Sandbox/It All Starts with a Goal/Try It Yourself: Materials (Page)/Page content/divider-wave-1 (2).png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295626">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64810</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245388</timecreated>
+    <timemodified>1664245466</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Exploring the UDL Framework​ (Page)/Page content/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295627">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64810</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295628">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64810</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245454</timecreated>
+    <timemodified>1664245466</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Exploring the UDL Framework​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295629">
+    <contenthash>276bdf899f21e5eea7d73808c72c7bd8b64a0d87</contenthash>
+    <contextid>64810</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>UDL-graphicOrganizer-columns-engagement.jpg</filename>
+    <userid>26700</userid>
+    <filesize>523587</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665580901</timecreated>
+    <timemodified>1665581014</timemodified>
+    <source>UDL-GraphicOrganizer-columns-engagement.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295630">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64811</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245563</timecreated>
+    <timemodified>1664245622</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Reflect on Your Practice: Reducing Barriers to Engagement​ (Page)/Page content/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295631">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64811</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295632">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64811</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245592</timecreated>
+    <timemodified>1664245622</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Reflect on Your Practice: Reducing Barriers to Engagement​ (Page)/Page content/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295633">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64811</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295634">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64811</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245615</timecreated>
+    <timemodified>1664245622</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Reflect on Your Practice: Reducing Barriers to Engagement​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295635">
+    <contenthash>7aef70b42283d89106531870adcb37c79fb41624</contenthash>
+    <contextid>64811</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>UDL-GraphicOrgranizer-columns-representation.jpg</filename>
+    <userid>26700</userid>
+    <filesize>553407</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665581428</timecreated>
+    <timemodified>1665581458</timemodified>
+    <source>UDL-GraphicOrganizer-columns-representation.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295636">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64812</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245724</timecreated>
+    <timemodified>1664245774</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Reflect on Your Practice: Reducing Barriers to Representation​ (Page)/Description/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295637">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64812</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295638">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64812</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245763</timecreated>
+    <timemodified>1664245774</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Reflect on Your Practice: Reducing Barriers to Representation​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295639">
+    <contenthash>6189e33f74bd30a30f844785bcc15825624639a7</contenthash>
+    <contextid>64812</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>UDL-GraphicOrganizer-columns-actionexpression.jpg</filename>
+    <userid>26700</userid>
+    <filesize>630994</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665581732</timecreated>
+    <timemodified>1665582029</timemodified>
+    <source>UDL-GraphicOrganizer-columns-actionexpression.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295640">
+    <contenthash>b54ef511a4d942526ed4e6d8d0e322f2c1596bf3</contenthash>
+    <contextid>64813</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyidea.png</filename>
+    <userid>26700</userid>
+    <filesize>51861</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664245849</timecreated>
+    <timemodified>1664246819</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/octae-icon-keyidea.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295641">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64813</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295642">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64813</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideaforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664246699</timecreated>
+    <timemodified>1664246819</timemodified>
+    <source>octae-icon-keyideaforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295643">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64813</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664246731</timecreated>
+    <timemodified>1664246819</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Reflect on Your Practice: Reducing Barriers to Action &amp;amp; Expression​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295644">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64813</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideasforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664246789</timecreated>
+    <timemodified>1664246819</timemodified>
+    <source>octae-icon-keyideaforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295645">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64813</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295646">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64813</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664246811</timecreated>
+    <timemodified>1664246819</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Reflect on Your Practice: Reducing Barriers to Action &amp;amp; Expression​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295647">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64814</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247144</timecreated>
+    <timemodified>1664247154</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295648">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64814</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295649">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64815</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideasforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247224</timecreated>
+    <timemodified>1664247313</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Idea (Page)/Page content/octae-icon-keyideasforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295650">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64815</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295651">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64815</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247252</timecreated>
+    <timemodified>1664247313</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Reflect on Your Practice: Reducing Barriers to Action &amp;amp; Expression​ (Page)/Page content/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295652">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64815</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247303</timecreated>
+    <timemodified>1664247313</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Asset-based approaches in Teaching​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295653">
+    <contenthash>608766d748ed543e29b3c655ed500e8cb0e74e78</contenthash>
+    <contextid>64815</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-wendyb.jpg</filename>
+    <userid>26700</userid>
+    <filesize>151702</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665582463</timecreated>
+    <timemodified>1665582498</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/How do you Support Variability?​ (Page)/Page content/video-poster-wendyb.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295654">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64816</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247486</timecreated>
+    <timemodified>1664247496</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Asset-Based Instruction in ABE​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295655">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64816</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295656">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64817</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247548</timecreated>
+    <timemodified>1664247558</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Culturally Responsive Teaching is an Asset-Based Approach​ ​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295657">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64817</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295658">
+    <contenthash>e2e87160b5fefb30a2e062981fe762b9876df0df</contenthash>
+    <contextid>64817</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>udl-brain-engagement-outline.png</filename>
+    <userid>26700</userid>
+    <filesize>924155</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665582742</timecreated>
+    <timemodified>1665582792</timemodified>
+    <source>udl-brain-engagement-outline (1).png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295659">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64818</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247622</timecreated>
+    <timemodified>1664247635</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Multiple Means of Engagement​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295660">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64818</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110500</timecreated>
+    <timemodified>1694110500</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295661">
+    <contenthash>30b1ae265c1962914caed031c0befb3bc0a829ea</contenthash>
+    <contextid>64818</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>udl-brain-representation-outline.png</filename>
+    <userid>26700</userid>
+    <filesize>607397</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665582928</timecreated>
+    <timemodified>1665583016</timemodified>
+    <source>udl-brain-representation-outline.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295662">
+    <contenthash>30b1ae265c1962914caed031c0befb3bc0a829ea</contenthash>
+    <contextid>64818</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>udl-brain-representation-outline (1).png</filename>
+    <userid>26700</userid>
+    <filesize>607397</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665582989</timecreated>
+    <timemodified>1665583016</timemodified>
+    <source>Server files: udl-brain-representation-outline.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295663">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64819</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247692</timecreated>
+    <timemodified>1664281823</timemodified>
+    <source>Server files: divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295664">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64819</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295665">
+    <contenthash>92754ba048b27e8b3f2122225f216f6461541428</contenthash>
+    <contextid>64819</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>udl-brain-actionandexpression-outline.png</filename>
+    <userid>26700</userid>
+    <filesize>607261</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665583375</timecreated>
+    <timemodified>1665583416</timemodified>
+    <source>udl-brain-actionandexpression-outline.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295666">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2711</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247840</timecreated>
+    <timemodified>1671458445</timemodified>
+    <source>Server files: divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295667">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2711</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295668">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64820</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665583740</timecreated>
+    <timemodified>1665583749</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/UDL &amp;amp; Growth Mindset Activity: The Power of Yet​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295669">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64820</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295670">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64821</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247811</timecreated>
+    <timemodified>1664247850</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Multiple Means of Action &amp;amp; Expression​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295671">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64821</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295672">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64821</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664247840</timecreated>
+    <timemodified>1664281993</timemodified>
+    <source>Server files: divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295673">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64821</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295674">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64821</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1 (1).png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664281952</timecreated>
+    <timemodified>1664282017</timemodified>
+    <source>Server files: divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295675">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64821</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1 (2).png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664282106</timecreated>
+    <timemodified>1664282118</timemodified>
+    <source>Server files: divider-wave-1 (1).png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295676">
+    <contenthash>51c772726377119959b6fe103861423ddab77cd5</contenthash>
+    <contextid>64821</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-jason.jpg</filename>
+    <userid>26700</userid>
+    <filesize>155169</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665584264</timecreated>
+    <timemodified>1665584292</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Here's Your Challenge  (Page)/Page content/video-poster-jason.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295677">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64822</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideasforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664248380</timecreated>
+    <timemodified>1664248411</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Asset-Based Instruction in ABE​ (Page)/Page content/octae-icon-keyideasforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295678">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64822</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295679">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64822</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664248403</timecreated>
+    <timemodified>1664248411</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/3. New Learning/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295680">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64823</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664248531</timecreated>
+    <timemodified>1664248589</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Ideas (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295681">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64823</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295682">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64823</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664248581</timecreated>
+    <timemodified>1664248589</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Ideas (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295683">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64823</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295684">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64823</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-protips.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664248821</timecreated>
+    <timemodified>1664248863</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Pro Tips: Learning that Works for All (2 of 2)​ (Page)/Page content/octae-icon-protips.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295685">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64824</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-keyideasforward.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664249018</timecreated>
+    <timemodified>1664249125</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Key Ideas (Page)/Page content/octae-icon-keyideasforward.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295686">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64824</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295687">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64824</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-protips.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664249031</timecreated>
+    <timemodified>1664249125</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Pro Tips: Learning that Works for All  (Page)/Page content/octae-icon-protips.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295688">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64824</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664249059</timecreated>
+    <timemodified>1664249125</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Pro Tips: Learning that Works for All  (Page)/Description/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295689">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64825</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-resources.png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664249459</timecreated>
+    <timemodified>1664249511</timemodified>
+    <source>octae-icon-resources.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295690">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64825</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295691">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64825</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664249503</timecreated>
+    <timemodified>1664249511</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Try it Yourself Materials​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295692">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64826</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664249739</timecreated>
+    <timemodified>1664249753</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Additional Resources​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295693">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64826</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295694">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64828</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664283824</timecreated>
+    <timemodified>1664283835</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/References  (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295695">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64828</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295696">
+    <contenthash>51c772726377119959b6fe103861423ddab77cd5</contenthash>
+    <contextid>64828</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-jason.jpg</filename>
+    <userid>26700</userid>
+    <filesize>155169</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1665584882</timecreated>
+    <timemodified>1665584908</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Review Your Initial Thoughts​ (Page)/Page content/video-poster-jason.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295697">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64829</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1 (1).png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664284083</timecreated>
+    <timemodified>1664284090</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Review Your Initial Thoughts​ (Page)/Page content/divider-wave-1 (1).png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295698">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64829</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295699">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664284196</timecreated>
+    <timemodified>1664284206</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Case-based Learning: Variability in ABE Learners​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295700">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295701">
+    <contenthash>ca3c512950e0360e3248981a4af8799e79b3e728</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>icon-compass-purple.png</filename>
+    <userid>26700</userid>
+    <filesize>7965</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665584993</timecreated>
+    <timemodified>1665585176</timemodified>
+    <source>icon-compass-purple.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295702">
+    <contenthash>a83788c4fae8f4859c2d98e2371d563e1110e8b5</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>grocery.jpg</filename>
+    <userid>26700</userid>
+    <filesize>25721</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1693493801</timecreated>
+    <timemodified>1693494519</timemodified>
+    <source>grocery.jpg</source>
+    <author>Carl Trank</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295703">
+    <contenthash>97d8dcacf7b0f483c6d56c6d747b97528917e89b</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>cake and ballons.jpg</filename>
+    <userid>26700</userid>
+    <filesize>20082</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1693494018</timecreated>
+    <timemodified>1693494519</timemodified>
+    <source>cake and ballons.jpg</source>
+    <author>Carl Trank</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295704">
+    <contenthash>6427e02510b02568de224b93dbb4218c47b31db9</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>committee.png</filename>
+    <userid>26700</userid>
+    <filesize>87176</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1693494429</timecreated>
+    <timemodified>1693494519</timemodified>
+    <source>Server files: committee.png</source>
+    <author>Carl Trank</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295705">
+    <contenthash>ca00e9797cf5a5d1dff7f588977b8a82350b7cc7</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>committee.jpg</filename>
+    <userid>26700</userid>
+    <filesize>17160</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1693494575</timecreated>
+    <timemodified>1693494826</timemodified>
+    <source>committee.jpg</source>
+    <author>Carl Trank</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295706">
+    <contenthash>1cbf9ce06745c37c53baf9665bb17071768c2483</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>compass.jpg</filename>
+    <userid>26700</userid>
+    <filesize>13066</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1693494726</timecreated>
+    <timemodified>1693494826</timemodified>
+    <source>compass.jpg</source>
+    <author>Carl Trank</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295707">
+    <contenthash>1cbf9ce06745c37c53baf9665bb17071768c2483</contenthash>
+    <contextid>64830</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>compass (1).jpg</filename>
+    <userid>26700</userid>
+    <filesize>13066</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1693494740</timecreated>
+    <timemodified>1693494826</timemodified>
+    <source>Server files: compass.jpg</source>
+    <author>Carl Trank</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295708">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64831</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664284496</timecreated>
+    <timemodified>1664284503</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/The Four Corners Activity:​ Learning Variability-in-Context​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295709">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64831</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295710">
+    <contenthash>176b3cbac0d9ab77403ee873aa282ea52a710728</contenthash>
+    <contextid>64831</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>tedx-toddrose-poster.png</filename>
+    <userid>26700</userid>
+    <filesize>4097475</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665585871</timecreated>
+    <timemodified>1665585934</timemodified>
+    <source>tedx-toddrose-poster.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295711">
+    <contenthash>2a334ea0b61d07cb4664c07b2e3d3d348e643628</contenthash>
+    <contextid>64832</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>OCTAE UDL INTRO Poster.jpg</filename>
+    <userid>26700</userid>
+    <filesize>385271</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1666734057</timecreated>
+    <timemodified>1666734118</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Introducing Universal Design for Learning​ (Page)/Page content/OCTAE UDL INTRO Poster.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295712">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64832</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295713">
+    <contenthash>291ebffb12009db6593b9af5923edc4810406781</contenthash>
+    <contextid>64832</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-intro.jpg</filename>
+    <userid>26700</userid>
+    <filesize>166870</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1666827912</timecreated>
+    <timemodified>1666828047</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Introducing Universal Design for Learning​ (Page)/Page content/video-poster-intro.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295714">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64832</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1666828843</timecreated>
+    <timemodified>1666828856</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Option 3 (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295715">
+    <contenthash>4a9e01b8fa02e57e51ea5214362d33d4583cb890</contenthash>
+    <contextid>64833</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>dinner-party-guests.png</filename>
+    <userid>26700</userid>
+    <filesize>247254</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665586078</timecreated>
+    <timemodified>1665586304</timemodified>
+    <source>dinner-party-guests.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295716">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64833</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295717">
+    <contenthash>fcd98a2bc716cbe956277a0e6aab244b07798b5b</contenthash>
+    <contextid>64833</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>dinner-party-food.png</filename>
+    <userid>26700</userid>
+    <filesize>2794546</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665586212</timecreated>
+    <timemodified>1665586304</timemodified>
+    <source>dinner-party-food.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295718">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64833</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665586286</timecreated>
+    <timemodified>1665586304</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/The Four Corners Activity: Scenarios to Consider​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295719">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64834</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664285273</timecreated>
+    <timemodified>1664285284</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Sharing The Myth of Average​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295720">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64834</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295721">
+    <contenthash>e2e87160b5fefb30a2e062981fe762b9876df0df</contenthash>
+    <contextid>64834</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>udl-brain-engagement-outline.png</filename>
+    <userid>26700</userid>
+    <filesize>924155</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665586376</timecreated>
+    <timemodified>1665586414</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Multiple Means of Engagement​ (Page)/Page content/udl-brain-engagement-outline.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295722">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64835</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664285547</timecreated>
+    <timemodified>1664285559</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/How might learners engage in multiple ways?​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295723">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64835</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295724">
+    <contenthash>30b1ae265c1962914caed031c0befb3bc0a829ea</contenthash>
+    <contextid>64835</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>udl-brain-representation-outline (1).png</filename>
+    <userid>26700</userid>
+    <filesize>607397</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665586442</timecreated>
+    <timemodified>1665586479</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Multiple Means of Representation​ (Page)/Page content/udl-brain-representation-outline (1).png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295725">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64836</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664285895</timecreated>
+    <timemodified>1664285904</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/How might learners perceive &amp;amp; comprehend in multiple ways? (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295726">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64836</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295727">
+    <contenthash>92754ba048b27e8b3f2122225f216f6461541428</contenthash>
+    <contextid>64836</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>udl-brain-actionandexpression-outline.png</filename>
+    <userid>26700</userid>
+    <filesize>607261</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1665586524</timecreated>
+    <timemodified>1665586547</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Multiple Means of Action &amp;amp; Expression​ (Page)/Page content/udl-brain-actionandexpression-outline.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295728">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64837</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664286111</timecreated>
+    <timemodified>1664286119</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/How might learners act on knowledge and express understanding in multiple ways?​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295729">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64837</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110501</timecreated>
+    <timemodified>1694110501</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295730">
+    <contenthash>19d393fdc5f7ac18698461dc3ecc5c9f8fdf0ac8</contenthash>
+    <contextid>64837</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-tedx-dweck.jpg</filename>
+    <userid>26700</userid>
+    <filesize>75477</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1666827112</timecreated>
+    <timemodified>1666827169</timemodified>
+    <source>video-poster-tedx-dweck.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295731">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2713</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1664283656</timecreated>
+    <timemodified>1664283666</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Try it Yourself Materials​ (Page)/Page content/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295732">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64782</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2713</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694110502</timecreated>
+    <timemodified>1694110502</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

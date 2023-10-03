@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2318" moduleid="9703" modulename="page" contextid="64841">
+  <page id="2318">
+    <name>Download this module to share your learning with others!</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Now that you have completed this course in LINCS, please share what you've learned with others!&amp;nbsp; Here is an accessible PowerPoint presentation which contains all of the information found in this module for you to take with you and share widely.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/UDL%20-%202%20-%20Learning%20that%20Works%20for%20All_0.pptx" target="_blank"&gt;Downloadable PowerPoint for UDL -&amp;nbsp;Learning that Works for All&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1693576379</timemodified>
+  </page>
+</activity>

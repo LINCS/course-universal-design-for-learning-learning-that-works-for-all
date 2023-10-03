@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="714">
+    <name>top</name>
+    <contextid>64782</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>291</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+230907181458+yxTdcd</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="715">
+    <name>Default for Option 1: Complete a 5 Question Knowledge Check</name>
+    <contextid>64839</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>9701</contextinstanceid>
+    <info>The default category for questions shared in context 'Option 1: Complete a 5 Question Knowledge Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+221214221729+RpHOGX</stamp>
+    <parent>717</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="716">
+    <name>Default for Universal Design for Learning: Learning that Works for All</name>
+    <contextid>64782</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>291</contextinstanceid>
+    <info>The default category for questions shared in context 'Universal Design for Learning: Learning that Works for All'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+221214221729+dOAGpK</stamp>
+    <parent>714</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+      <question id="2944">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Which of these is&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;not&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;a key assumption of UDL?&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221214222539+rIGG7X</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230825141053+h0zTDZ</version>
+        <hidden>0</hidden>
+        <timecreated>1671056739</timecreated>
+        <timemodified>1692972653</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9225">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Build on the assets that each person brings to learning&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9226">
+              <answertext>&lt;p dir="ltr"&gt;Variability is predictable in every learning environment&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9227">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Barriers are in learners, not the environment&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The key assumption of UDL is that barriers are in the environment, not&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;learners&lt;/span&gt;​.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9228">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Proactively design flexible learning environments&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1696">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2945">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Universal Design for Learning is a:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221214222814+qAsn2M</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230301233551+9zKlMu</version>
+        <hidden>0</hidden>
+        <timecreated>1671056894</timecreated>
+        <timemodified>1677713751</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9229">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;One-size-fits-all approach to instruction&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9230">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Framework for designing inclusive instruction&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;UDL is a framework for designing inclusive instruction&lt;/span&gt;​.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9231">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;A checklist that is applied to each activity&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9232">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;A product you can buy and use in your classroom&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1697">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2946">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;When you present content in different ways to address the variability in how your AE&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;learners perceive information, you are applying the UDL principle of multiple means of:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221214223019+wpX6NF</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230724213410+rFtXFE</version>
+        <hidden>0</hidden>
+        <timecreated>1671057019</timecreated>
+        <timemodified>1690234450</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9233">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Representation&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The UDL principle of Multiple Means of Representation involves&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;presenting content in different ways.&amp;nbsp;&lt;/span&gt;​&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9234">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Action &amp;amp; Expression&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9235">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Engagement&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1698">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2947">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;When you provide multiple ways for AE learners to demonstrate what they&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;know, you are applying the UDL principle of multiple means of:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221214223134+5t9WjV</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230825141145+7HrWrl</version>
+        <hidden>0</hidden>
+        <timecreated>1671057094</timecreated>
+        <timemodified>1692972705</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9236">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 1.7rem;"&gt;Engagement&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9237">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 1.7rem;"&gt;Representation&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9238">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Action &amp;amp; Expression&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The UDL principle of Multiple Means of Action &amp;amp; Expression&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;involves&amp;nbsp;providing multiple ways for ABE learners to demonstrate what&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;they&amp;nbsp;know&lt;/span&gt;​.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1699">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2948">
+        <parent>0</parent>
+        <name>Question 5</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;When you recruit interest by connecting learning to the real-life experiences of&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;AE learners, you are applying the UDL principle of multiple means of:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221214223305+qCLuXF</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230724213453+OhyFa4</version>
+        <hidden>0</hidden>
+        <timecreated>1671057185</timecreated>
+        <timemodified>1690234493</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9239">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Representation&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9240">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Engagement&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The UDL principle of Multiple Means of Engagement&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;involves&amp;nbsp;recruiting&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;interest by connecting learning to the real-life experiences&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;of&amp;nbsp;ABE learners&lt;/span&gt;​.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9241">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Action &amp;amp; Expression&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1700">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="717">
+    <name>top</name>
+    <contextid>64839</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>9701</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+230907181502+8Ja8CO</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

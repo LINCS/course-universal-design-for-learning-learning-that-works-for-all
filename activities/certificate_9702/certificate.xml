@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="245" moduleid="9702" modulename="certificate" contextid="64840">
+  <certificate id="245">
+    <name>Certificate: Universal Design for Learning: Learning that Works for All</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span id="docs-internal-guid-5564d9cb-7fff-0d76-0a41-258b1de2fa5a"&gt;You will automatically receive a certificate of completion once you complete and pass a 5-question knowledge check. However, we encourage you to check your understanding by completing the additional assessment options and further solidify your understanding by sharing what you’ve learned with others through the online forum. &lt;/span&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>0</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>2</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>1 hour, 30 minutes</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>dael-signature.png</printsignature>
+    <printseal>LINCS-Logo-Color-small.png</printseal>
+    <timecreated>1718224834</timecreated>
+    <timemodified>1736514628</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

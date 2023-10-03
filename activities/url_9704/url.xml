@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="305" moduleid="9704" modulename="url" contextid="64842">
+  <url id="305">
+    <name>Course Evaluation</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Please provide feedback on your experience completing this course using the course evaluation link.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://survey.alchemer.com/s3/6221234/LINCS-Training-Evaluation</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1676070446</timemodified>
+  </url>
+</activity>

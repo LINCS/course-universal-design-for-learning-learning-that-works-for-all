@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="291" contextid="64782">
+  <shortname>UDL: Learning that Works for All</shortname>
+  <fullname>Universal Design for Learning: Learning that Works for All</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p dir="ltr" style="text-align: left;"&gt;The purpose of this course is to model and identify UDL-based lesson ideas that increase access for the range of ways adults learn. In this course, your task is to assess how you are currently designing to increase access in adult learning. You will know you have been successful in this course if, upon completion, you are able to use UDL to design environments that increase access to learning for adults.&lt;br&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1694059200</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1650562671</timecreated>
+  <timemodified>1694786356</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>7</numsections>
+  <hiddensections>0</hiddensections>
+  <displayinstructions>0</displayinstructions>
+  <layoutelement>0</layoutelement>
+  <layoutstructure>0</layoutstructure>
+  <layoutcolumns>0</layoutcolumns>
+  <layoutcolumnorientation>0</layoutcolumnorientation>
+  <toggleallenabled>0</toggleallenabled>
+  <viewsinglesectionenabled>0</viewsinglesectionenabled>
+  <togglealignment>0</togglealignment>
+  <toggleiconposition>0</toggleiconposition>
+  <toggleiconset>-</toggleiconset>
+  <onesection>0</onesection>
+  <toggleallhover>0</toggleallhover>
+  <toggleforegroundcolour>-</toggleforegroundcolour>
+  <toggleforegroundopacity>-</toggleforegroundopacity>
+  <toggleforegroundhovercolour>-</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>-</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>-</togglebackgroundcolour>
+  <togglebackgroundopacity>-</togglebackgroundopacity>
+  <togglebackgroundhovercolour>-</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>-</togglebackgroundhoveropacity>
+  <showsectionsummary>0</showsectionsummary>
+  <showadditionalmoddata>0</showadditionalmoddata>
+  <category id="2">
+    <name>Learners with Disabilities</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>

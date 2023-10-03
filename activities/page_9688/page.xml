@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2305" moduleid="9688" modulename="page" contextid="64826">
+  <page id="2305">
+    <name>List of References </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>All references for this LINCS course (and the other six LINCS UDL courses) can be found in this&amp;nbsp;&lt;a href="https://lincs.ed.gov/sites/default/files/CAST_References%20Page_July%202023%20edited.docx" target="_blank"&gt;linked reference document&lt;/a&gt;.</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690640712</timemodified>
+  </page>
+</activity>
